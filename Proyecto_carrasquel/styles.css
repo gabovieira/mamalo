@@ -6,6 +6,12 @@
     padding: 0;
     box-sizing: border-box;
 }
+
+
+
+
+
+
 .img-01 {
    position: relative;
     width: 150px;
@@ -49,7 +55,10 @@ header{
 
 .container-icon{
     position:relative;
+    margin: 39px;
 }
+
+
 
 .count-products{
     position: absolute;
@@ -67,8 +76,10 @@ header{
     border-radius: 50%;
 }
 
-#contador-productos{
-    font-size: 12px;
+#contador-productos {
+    font-size: 10px;
+    position: fixed;
+    margin: 10px;
 }
 
 .container-cart-products{
