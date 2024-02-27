@@ -12,15 +12,4 @@ const btnSingIn =document.getElementById("Sing-in"),
         formRegister.classList.remove("hide")
     })
 // De aqui para abajo hay que acomodar toda la parte de ingreso
-    function registrarse(btnSingIn){
-    let user=document.getElementById("usuario").value;
-    let email=document.getElementById("correo").value;
-    let password=document.getElementById("clave").value;
-    if(user=="j")
-    }
 
-    function logear(btnSingUp){
-        let user=document.getElementById("usuario").value;
-        let password=document.getElementById("clave").value; 
-    }
-    
